@@ -1,5 +1,5 @@
 #Descripción general
-Este archivo describe los pasos  para procesar los mismos y generar los archivos finales listos para su carga en el sistema Boxer.
+-Este archivo describe los pasos  para procesar los mismos y generar los archivos finales listos para su carga en el sistema Boxer.
 
 #Proveedor  RASA:
 
