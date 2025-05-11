@@ -56,9 +56,10 @@ Ejemplo de la base: =Entero(G2) o  = Redondear(G2; 0)
 Aclaración: Se pueden utilizar ambas fórmulas tanto en Excel como en Sheet.
 
 ##Paso 3: Ordenar los precios de mayor a menor
-En sheet.
+-En sheet.
 -Seleccionamos toda la tabla o la base.
 -Vamos a la barra de herramienta donde dice “Datos”->  Orden de rango -> Personalizamos -> columna pivot para ordenar “PRECIO FINAL”.
+
 --------------------------------------------------------------------------------------------
 
 #Proveedor Ford 
